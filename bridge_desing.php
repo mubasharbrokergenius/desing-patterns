@@ -106,8 +106,6 @@ class JsonRenderer implements Renderer
     }
 }
 
-
-
 function clientCode(Page $page)
 {
     $page->view();
